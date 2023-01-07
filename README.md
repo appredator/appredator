@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @appredator
-- 👀 I’m interested in Web Development and Cybersecurity...
+- 👀 I’m interested in Web Development, DevOps, Data and Cybersecurity...
 - 🌱 I’m currently learning Full Stack HTML/CSS/JS and Python
 
 <!---
